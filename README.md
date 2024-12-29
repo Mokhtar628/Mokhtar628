@@ -26,13 +26,13 @@ I am Mohamed Mokhtar, a motivated developer specializing in **mobile application
 ## 🔧 Technologies & Tools  
 
 ### 🖋 Programming Languages  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" alt="C#" width="40"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/C_Sharp_logo.svg" alt="C#" width="40"/>  
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Dart_logo.png" alt="Dart" width="40"/>  
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40"/>  
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Java_logo_icon_2019.svg" alt="Java" width="40"/>
 
 ### 🤖 AI & Machine Learning Tools  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" alt="TensorFlow" width="40"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg" alt="TensorFlow" width="40"/>  
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Keras_Logo.png" alt="Keras" width="40"/>  
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/OpenCV_Logo.png" alt="OpenCV" width="40"/>  
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/PyTorch_logo.png" alt="PyTorch" width="40"/>  
