@@ -45,6 +45,9 @@ I am Mohamed Mokhtar, a motivated developer specializing in **mobile application
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 
+### 📱 Mobile Development  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 ---
 
 ## 🚀 Featured Projects  
