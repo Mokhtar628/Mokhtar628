@@ -6,6 +6,9 @@
 ## 🏆 GitHub Trophies  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mokhtar628&theme=onestar&row=1&margin-w=15)
 
+## 📧 How to Reach Me  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-mohmedmokhtar2002@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohmedmokhtar2002@gmail.com)
+
 ---
 
 ## 🌟 About Me  
