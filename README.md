@@ -47,7 +47,6 @@ I am Mohamed Mokhtar, a motivated developer specializing in **mobile application
 
 ### 📱 Mobile Development  
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flutter.svg" alt="Flutter" width="40">
-
 ---
 
 ## 🚀 Featured Projects  
