@@ -27,41 +27,41 @@ I am Mohamed Mokhtar, a motivated developer specializing in **mobile application
 
 ### 🖋 Programming Languages  
 <!-- C# Icon -->
-<i class="fa fa-cogs" style="color:#239120; font-size: 40px;"></i>  
+![C#](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg)  
 <!-- Dart Icon -->
-<i class="fa fa-code" style="color:#0175C2; font-size: 40px;"></i>  
+![Dart](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dart.svg)  
 <!-- Python Icon -->
-<i class="fa fa-python" style="color:#3670A0; font-size: 40px;"></i>  
+![Python](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg)  
 <!-- Java Icon -->
-<i class="fa fa-java" style="color:#007396; font-size: 40px;"></i>
+![Java](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg)
 
 ### 🤖 AI & Machine Learning Tools  
 <!-- TensorFlow Icon -->
-<i class="fa fa-bolt" style="color:#FF6F00; font-size: 40px;"></i>  
+![TensorFlow](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tensorflow.svg)  
 <!-- Keras Icon -->
-<i class="fa fa-cogs" style="color:#D00000; font-size: 40px;"></i>  
+![Keras](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/keras.svg)  
 <!-- OpenCV Icon -->
-<i class="fa fa-camera-retro" style="color:#5C3EE8; font-size: 40px;"></i>  
+![OpenCV](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/opencv.svg)  
 <!-- PyTorch Icon -->
-<i class="fa fa-fire" style="color:#EE4C2C; font-size: 40px;"></i>  
+![PyTorch](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pytorch.svg)  
 <!-- NLTK Icon -->
-<i class="fa fa-pencil-alt" style="color:#85C220; font-size: 40px;"></i>
+![NLTK](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nltk.svg)
 
 ### 🛠️ Backend Development  
 <!-- ASP.NET Core Icon -->
-<i class="fa fa-dot-circle" style="color:#512BD4; font-size: 40px;"></i>  
+![ASP.NET Core](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dotnet.svg)  
 <!-- ASP.NET Framework Icon -->
-<i class="fa fa-asterisk" style="color:#512BD4; font-size: 40px;"></i>  
+![ASP.NET Framework](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/aspdotnet.svg)  
 <!-- SQL Icon -->
-<i class="fa fa-database" style="color:#4479A1; font-size: 40px;"></i>  
+![SQL](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg)  
 <!-- PHP Icon -->
-<i class="fa fa-php" style="color:#777BB4; font-size: 40px;"></i>  
+![PHP](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg)  
 <!-- Firebase Icon -->
-<i class="fa fa-fire" style="color:#FFCA28; font-size: 40px;"></i>
+![Firebase](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/firebase.svg)
 
 ### 📱 Mobile Development  
 <!-- Flutter Icon -->
-<i class="fa fa-mobile" style="color:#02569B; font-size: 40px;"></i>
+![Flutter](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flutter.svg)
 
 ---
 
