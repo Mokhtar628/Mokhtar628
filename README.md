@@ -26,42 +26,27 @@ I am Mohamed Mokhtar, a motivated developer specializing in **mobile application
 ## 🔧 Technologies & Tools  
 
 ### 🖋 Programming Languages  
-<!-- C# Icon -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg" alt="C#" width="30" style="margin-right: 10px;"> C#  
-<!-- Dart Icon -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dart.svg" alt="Dart" width="30" style="margin-right: 10px;"> Dart  
-<!-- Python Icon -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="30" style="margin-right: 10px;"> Python  
-<!-- Java Icon -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" alt="Java" width="30" style="margin-right: 10px;"> Java
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg" alt="C#" width="40" style="margin-right: 10px;"> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dart.svg" alt="Dart" width="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" alt="Java" width="40" style="margin-right: 10px;">
 
 ### 🤖 AI & Machine Learning Tools  
-<!-- TensorFlow Icon -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tensorflow.svg" alt="TensorFlow" width="30" style="margin-right: 10px;"> TensorFlow  
-<!-- Keras Icon -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/keras.svg" alt="Keras" width="30" style="margin-right: 10px;"> Keras  
-<!-- OpenCV Icon -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/opencv.svg" alt="OpenCV" width="30" style="margin-right: 10px;"> OpenCV  
-<!-- PyTorch Icon -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pytorch.svg" alt="PyTorch" width="30" style="margin-right: 10px;"> PyTorch  
-<!-- NLTK Icon -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nltk.svg" alt="NLTK" width="30" style="margin-right: 10px;"> NLTK
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tensorflow.svg" alt="TensorFlow" width="40" style="margin-right: 10px;">  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/keras.svg" alt="Keras" width="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/opencv.svg" alt="OpenCV" width="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pytorch.svg" alt="PyTorch" width="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nltk.svg" alt="NLTK" width="40" style="margin-right: 10px;">
 
 ### 🛠️ Backend Development  
-<!-- ASP.NET Core Icon -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dotnet.svg" alt="ASP.NET Core" width="30" style="margin-right: 10px;"> ASP.NET Core  
-<!-- ASP.NET Framework Icon -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/aspdotnet.svg" alt="ASP.NET Framework" width="30" style="margin-right: 10px;"> ASP.NET Framework  
-<!-- SQL Icon -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" alt="SQL" width="30" style="margin-right: 10px;"> SQL  
-<!-- PHP Icon -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" alt="PHP" width="30" style="margin-right: 10px;"> PHP  
-<!-- Firebase Icon -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/firebase.svg" alt="Firebase" width="30" style="margin-right: 10px;"> Firebase
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dotnet.svg" alt="ASP.NET Core" width="40" style="margin-right: 10px;">  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/aspdotnet.svg" alt="ASP.NET Framework" width="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" alt="SQL" width="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" alt="PHP" width="40" style="margin-right: 10px;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/firebase.svg" alt="Firebase" width="40" style="margin-right: 10px;">
 
 ### 📱 Mobile Development  
-<!-- Flutter Icon -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flutter.svg" alt="Flutter" width="30" style="margin-right: 10px;"> Flutter
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flutter.svg" alt="Flutter" width="40">
 
 ---
 
