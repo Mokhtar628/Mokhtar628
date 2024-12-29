@@ -26,27 +26,27 @@ I am Mohamed Mokhtar, a motivated developer specializing in **mobile application
 ## 🔧 Technologies & Tools  
 
 ### 🖋 Programming Languages  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" alt="C#" width="40"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Dart_logo.png" alt="Dart" width="40"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Java_logo_icon_2019.svg" alt="Java" width="40"/>
 
 ### 🤖 AI & Machine Learning Tools  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![NLTK](https://img.shields.io/badge/NLTK-85C220?style=for-the-badge&logo=python&logoColor=white)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" alt="TensorFlow" width="40"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Keras_Logo.png" alt="Keras" width="40"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/OpenCV_Logo.png" alt="OpenCV" width="40"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/PyTorch_logo.png" alt="PyTorch" width="40"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_NLTK.png" alt="NLTK" width="40"/>  
 
 ### 🛠️ Backend Development  
-![ASP.NET Framework](https://img.shields.io/badge/ASP.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/.NET_Core_Logo.svg" alt="ASP.NET Core" width="40"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/ASP.NET_Logo.png" alt="ASP.NET Framework" width="40"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Postgresql_wordmark.svg" alt="SQL" width="40"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/PHP_logo.svg" alt="PHP" width="40"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Firebase_Logo_2016.svg" alt="Firebase" width="40"/>
 
 ### 📱 Mobile Development  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flutter-Logo.png" alt="Flutter" width="40"/>
 
 ---
 
