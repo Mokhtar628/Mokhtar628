@@ -37,7 +37,7 @@ I am Mohamed Mokhtar, a motivated developer specializing in **mobile application
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![ASP.NET Framework](https://img.shields.io/badge/ASP.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical&hide=HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mokhtar628&layout=donut&theme=radical&hide=HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
