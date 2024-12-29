@@ -26,27 +26,42 @@ I am Mohamed Mokhtar, a motivated developer specializing in **mobile application
 ## 🔧 Technologies & Tools  
 
 ### 🖋 Programming Languages  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/C_Sharp_logo.svg" alt="C#" width="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Dart_logo.png" alt="Dart" width="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Java_logo_icon_2019.svg" alt="Java" width="40"/>
+<!-- C# Icon -->
+<i class="fa fa-cogs" style="color:#239120; font-size: 40px;"></i>  
+<!-- Dart Icon -->
+<i class="fa fa-code" style="color:#0175C2; font-size: 40px;"></i>  
+<!-- Python Icon -->
+<i class="fa fa-python" style="color:#3670A0; font-size: 40px;"></i>  
+<!-- Java Icon -->
+<i class="fa fa-java" style="color:#007396; font-size: 40px;"></i>
 
 ### 🤖 AI & Machine Learning Tools  
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg" alt="TensorFlow" width="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Keras_Logo.png" alt="Keras" width="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/OpenCV_Logo.png" alt="OpenCV" width="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/PyTorch_logo.png" alt="PyTorch" width="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_NLTK.png" alt="NLTK" width="40"/>  
+<!-- TensorFlow Icon -->
+<i class="fa fa-bolt" style="color:#FF6F00; font-size: 40px;"></i>  
+<!-- Keras Icon -->
+<i class="fa fa-cogs" style="color:#D00000; font-size: 40px;"></i>  
+<!-- OpenCV Icon -->
+<i class="fa fa-camera-retro" style="color:#5C3EE8; font-size: 40px;"></i>  
+<!-- PyTorch Icon -->
+<i class="fa fa-fire" style="color:#EE4C2C; font-size: 40px;"></i>  
+<!-- NLTK Icon -->
+<i class="fa fa-pencil-alt" style="color:#85C220; font-size: 40px;"></i>
 
 ### 🛠️ Backend Development  
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/.NET_Core_Logo.svg" alt="ASP.NET Core" width="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/ASP.NET_Logo.png" alt="ASP.NET Framework" width="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Postgresql_wordmark.svg" alt="SQL" width="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/PHP_logo.svg" alt="PHP" width="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Firebase_Logo_2016.svg" alt="Firebase" width="40"/>
+<!-- ASP.NET Core Icon -->
+<i class="fa fa-dot-circle" style="color:#512BD4; font-size: 40px;"></i>  
+<!-- ASP.NET Framework Icon -->
+<i class="fa fa-asterisk" style="color:#512BD4; font-size: 40px;"></i>  
+<!-- SQL Icon -->
+<i class="fa fa-database" style="color:#4479A1; font-size: 40px;"></i>  
+<!-- PHP Icon -->
+<i class="fa fa-php" style="color:#777BB4; font-size: 40px;"></i>  
+<!-- Firebase Icon -->
+<i class="fa fa-fire" style="color:#FFCA28; font-size: 40px;"></i>
 
 ### 📱 Mobile Development  
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flutter-Logo.png" alt="Flutter" width="40"/>
+<!-- Flutter Icon -->
+<i class="fa fa-mobile" style="color:#02569B; font-size: 40px;"></i>
 
 ---
 
