@@ -2,7 +2,7 @@
 
 💻 **Mobile Developer | AI Enthusiast | Computer Vision Expert**  
 🌟 Published IEEE author with hands-on experience in developing Flutter applications and deep learning projects.
-![Profile Views](https://komarev.com/ghpvc/?username=Mokhtar628&color=brightgreen)
+
 ## 🏆 GitHub Trophies  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mokhtar628&theme=onestar&row=1&margin-w=15)
 
