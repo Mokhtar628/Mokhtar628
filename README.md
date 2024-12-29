@@ -6,7 +6,6 @@
 ## 🏆 GitHub Trophies  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mokhtar628&theme=onestar&row=1&margin-w=15)
 
-## 📧 How to Reach Me  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-mohmedmokhtar2002@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohmedmokhtar2002@gmail.com)
 
 ---
@@ -26,27 +25,28 @@ I am Mohamed Mokhtar, a motivated developer specializing in **mobile application
 ## 🔧 Technologies & Tools  
 
 ### 🖋 Programming Languages  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg" alt="C#" width="40" style="margin-right: 10px;"> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dart.svg" alt="Dart" width="40" style="margin-right: 10px;">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="40" style="margin-right: 10px;">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" alt="Java" width="40" style="margin-right: 10px;">
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 
 ### 🤖 AI & Machine Learning Tools  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tensorflow.svg" alt="TensorFlow" width="40" style="margin-right: 10px;">  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/keras.svg" alt="Keras" width="40" style="margin-right: 10px;">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/opencv.svg" alt="OpenCV" width="40" style="margin-right: 10px;">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pytorch.svg" alt="PyTorch" width="40" style="margin-right: 10px;">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nltk.svg" alt="NLTK" width="40" style="margin-right: 10px;">
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![NLTK](https://img.shields.io/badge/NLTK-85C220?style=for-the-badge&logo=nltk&logoColor=white)  
 
 ### 🛠️ Backend Development  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dotnet.svg" alt="ASP.NET Core" width="40" style="margin-right: 10px;">  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/aspdotnet.svg" alt="ASP.NET Framework" width="40" style="margin-right: 10px;">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" alt="SQL" width="40" style="margin-right: 10px;">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" alt="PHP" width="40" style="margin-right: 10px;">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/firebase.svg" alt="Firebase" width="40" style="margin-right: 10px;">
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![ASP.NET Framework](https://img.shields.io/badge/ASP.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 
 ### 📱 Mobile Development  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flutter.svg" alt="Flutter" width="40">
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+
 ---
 
 ## 🚀 Featured Projects  
