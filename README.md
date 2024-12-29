@@ -44,7 +44,7 @@ I am Mohamed Mokhtar, a motivated developer specializing in **mobile application
 ## 🚀 Featured Projects  
 
 ### 🏆 [Medical Compounding Pharmacy](https://apps.apple.com/eg/app/medical-compounding-pharmacy/id6477877781)  
-Developed a Flutter app that allows users to order medications and set reminders. Integrated real-time data synchronization with Firebase.  
+Participated in the development of a Flutter app that allows users to order medications and set reminders. Integrated real-time data synchronization with Firebase.  
 
 ### 📊 [Iris Detection System](https://www.kaggle.com/datasets/mohmedmokhtar/iris-of-eye-dataset)  
 Built an iris detection system using CNN. Dataset available on Kaggle with over **600 downloads**.  
