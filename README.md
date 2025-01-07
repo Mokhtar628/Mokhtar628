@@ -78,7 +78,7 @@ Facial recognition system built with Python, achieving highly accurate results.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed--Mokhtar-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohamed-mokhtar-b62b3a1ab/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Mokhtar628-lightgrey?style=for-the-badge&logo=github)](https://github.com/Mokhtar628)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-Mohamed--Mokhtar-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/mohmedmokhtar)  
-[![ResearchGate](https://www.researchgate.net/profile/Mohamed-Mokhtar-32)] 
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Mohamed--Mokhtar-green?style=for-the-badge&logo=researchgate)]([https://www.researchgate.net/profile/Mohamed-Mokhtar](https://www.researchgate.net/profile/Mohamed-Mokhtar-32))   
 [![LeetCode](https://img.shields.io/badge/LeetCode-Mohamed--Mokhtar-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Mohamed_Mokhtar/)
 
 ---
