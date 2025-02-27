@@ -1,6 +1,6 @@
 # 👋 Welcome to Mohamed Mokhtar's GitHub Profile!  
 
-💻 **Mobile Developer | AI Enthusiast | Computer Vision Expert**  
+💻 **Software Engineer | Mobile Developer | AI Enthusiast | NLP & Computer Vision Expert**  
 🌟 Published IEEE author with hands-on experience in developing Flutter applications and deep learning projects.
 
 ## 🏆 GitHub Trophies  
