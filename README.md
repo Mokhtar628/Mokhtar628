@@ -10,11 +10,15 @@
 
 ---
 
-## 🌟 About Me  
-I am Mohamed Mokhtar, a motivated developer specializing in **mobile applications** and **AI-powered solutions**, with a strong focus on **computer vision**. My journey includes:  
-- Developing and deploying apps available on **Google Play** and **App Store**.  
-- Leading a team to publish a paper on **underwater hand gesture recognition** with the IEEE.  
-- Solving real-world challenges in **hackathons** using state-of-the-art machine learning models.  
+## 🌟 About Me
+I'm Mohamed Mokhtar, a driven **AI/LLM Engineer** specializing in **Large Language Models (LLMs), Generative AI, and multi-agent systems**. My expertise spans **RAG pipeline development**, **computer vision**, and **full-stack development (.NET & Flutter)**. My journey includes:
+- Participating in the integration and deployment of cutting-edge **LLMs** and **Generative AI services**.
+- Designing and implementing robust **Retrieval-Augmented Generation (RAG) pipelines**.
+- Exploring and implementing **state-of-the-art agentic AI tools**.
+- Developing and deploying mobile applications available on **Google Play** and **App Store**.
+- Leading a team to publish a paper on **underwater hand gesture recognition** with IEEE.
+- Solving real-world challenges in **hackathons** using advanced ML models.
+
 
 📍 From: **6th of October City, Giza**  
 📚 Education: **Faculty of Computer Science and Artificial Intelligence, Helwan University** (Excellent with Honor, GPA: 3.74/4.0)  
